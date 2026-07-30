@@ -1,0 +1,11 @@
+{
+  "name": "youtube-dash-worker",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "youtubei.js": "^17.1.0"
+  },
+  "devDependencies": {
+    "wrangler": "^3.100.0"
+  }
+}
